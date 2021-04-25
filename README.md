@@ -10,4 +10,4 @@ In Safari: Safari --> Preferences --> Advanced --> Show develop menu in menu bar
 then
 Develop --> Show JavaScript Console
 
-The simulation will run and output to the console every time the page is loaded or reloaded
+The simulation will run and output to the console every time the page is loaded or reloaded.
